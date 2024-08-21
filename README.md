@@ -521,10 +521,3 @@ Strategies for Smooth Collaboration:
 4. Use collaboration tools
 5. Regular meetings
 
-Additional Tips:
-
-1. Start small
-2. Practice
-3. Stay updated
-
-By understanding challenges, avoiding pitfalls, and following best practices, new users can ensure successful collaboration on GitHub.
