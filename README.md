@@ -9,14 +9,15 @@ Fundamental Concepts of Version Control:
 2. Versions: Assigning unique identifiers to changes (e.g., v1, v2).
 
 3. Repositories: Central storage for version-controlled files.
+   
 
-4. Branching: Creating separate development paths (e.g., main, feature).
+5. Branching: Creating separate development paths (e.g., main, feature).
 
-5. Committing: Saving changes with descriptive messages.
+6. Committing: Saving changes with descriptive messages.
 
-6. Merging: Combining changes from branches.
+7. Merging: Combining changes from branches.
 
-7. History: Maintaining a record of all changes.
+8. History: Maintaining a record of all changes.
 
 These concepts enable:
 
